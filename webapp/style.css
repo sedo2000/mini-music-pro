@@ -1,0 +1,13 @@
+body{
+background:#0f2027;
+color:white;
+font-family:sans-serif;
+}
+
+.glass{
+margin:40px;
+padding:20px;
+border-radius:20px;
+background:rgba(255,255,255,.1);
+backdrop-filter:blur(25px);
+}
